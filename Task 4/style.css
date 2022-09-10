@@ -28,7 +28,10 @@
   color: #333;
 }
 
-#output{
- margin: 50px 50px;
-
-}
+ul{
+  margin: 20px 20px;
+ }
+ li{
+  margin: 15px 5px;
+  border-style: ridge;
+ }
